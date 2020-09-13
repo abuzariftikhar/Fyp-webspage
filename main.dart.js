@@ -39396,7 +39396,7 @@ return new M.pt(M.ET(s,new T.u4(C.aq,C.lO,C.lP,C.kH,s,C.mS,s,H.d([new A.fr(new A
 d3:function(a){var s=0,r=P.al(t.z)
 var $async$d3=P.af(function(b,c){if(b===1)return P.ai(c,r)
 while(true)switch(s){case 0:s=2
-return P.as(new Z.LQ(!0,!0,C.i4,C.i4,!0,!0,!1).hv("    \n    ./var/www/cgi-bin/forward.cgi\n\n    "),$async$d3)
+return P.as(new Z.LQ(!0,!0,C.i4,C.i4,!0,!0,!1).hv("    \n    echo 'hellow'\n\n    "),$async$d3)
 case 2:return P.aj(null,r)}})
 return P.ak($async$d3,r)}}
 A.Q2.prototype={
